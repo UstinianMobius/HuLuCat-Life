@@ -15,7 +15,7 @@ const Hero = () => (
       }
       description={
         <>
-          The Best designer of ChongQiong{' '}
+          The Best designer of ChongQing{' '}
           <a className="text-cyan-400">
             Designer Artist 🎨
           </a>{' '}
