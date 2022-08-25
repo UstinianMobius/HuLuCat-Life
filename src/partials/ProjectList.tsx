@@ -47,7 +47,7 @@ const ProjectList = () => (
       />
       <Project
         name="拍照"
-        description="我集性感与可爱于一身的女人，咋啦～"
+        description="我就是集性感与可爱于一身的女人，咋啦～"
         link="/"
         img={{ src: '/assets/images/fashions.svg', alt: 'Fashions' }}
         category={
